@@ -1,0 +1,103 @@
+.span:hover {
+  background-color: yellow;
+  border-radius: 19px;
+  color: black;
+}
+
+.childs {
+  margin-top: 41px;
+}
+
+#category {
+  margin-bottom: 34px;
+}
+
+#btn {
+  margin-left: 55px;
+}
+
+input {
+  margin-bottom: 69px;
+  border-radius: 32px;
+  width: 17vw;
+}
+
+.budget {
+  position: relative;
+  left: 41%;
+  margin-top: 12px;
+}
+
+.button {
+  margin-top: 23px;
+  border-radius: 32px;
+  background-color: yellow;
+  color: cornflowerblue;
+  width: 6vw;
+}
+
+.parent {
+  text-align: center;
+}
+
+h1 {
+  color: green;
+}
+
+.date {
+  margin-left: 121px;
+}
+
+.category {
+  margin-left: 32px;
+  margin-right: 43px;
+}
+
+
+.desc {
+  margin-left: 43px;
+  color: blue;
+}
+
+.payment {
+  margin-left: 43px;
+}
+
+.amount {
+  margin-right: 32px;
+}
+
+.custom-li {
+  list-style: none;
+  margin-top: 13px;
+}
+
+.dcont {
+  padding-bottom: 143px;
+  padding-right: 34px;
+}
+
+.delete {
+  border-radius: 19px;
+  background-color: yellow;
+  position: relative;
+  left: 8%;
+}
+
+.table {
+  position: relative;
+  left: 76%;
+  width: 100%;
+}
+
+ .th{
+padding-left: 11px;
+}
+
+.td{
+  padding-left: 11px;
+  }
+
+  .nav{
+    width: 100%;
+  }
